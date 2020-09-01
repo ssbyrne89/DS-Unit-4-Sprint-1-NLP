@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Large Datasets
+Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19
+Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv/
 # C extensions
 *.so
 
