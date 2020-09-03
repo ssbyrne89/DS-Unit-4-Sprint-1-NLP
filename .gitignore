@@ -6,6 +6,12 @@ __pycache__/
 # Large Datasets
 Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19
 Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv/
+train.csv.zip
+train.csv
+train.csv/
+train
+test.csv
+test
 # C extensions
 *.so
 
